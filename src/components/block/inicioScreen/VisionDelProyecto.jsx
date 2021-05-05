@@ -9,11 +9,11 @@ export const VisionDelProyecto = () => {
             <h2 className="tile-visionDeProyecto" >ENTRADAS</h2>
             <h3 className="subtile-visionDeProyecto">CASO DE NEGOCIO DEL PROYECTO</h3>
             <p className="parrafo-visionDeProyecto">NUTRI & FIT, es una empresa joven liderada por el nutricionista Piero Zevallos Cáceres. Está ubicada en el distrito de Villa el Salvador y se encarga de brindar servicios de nutrición a ciudadanos que presenten problemas y/o enfermedades generadas por transtornos alimenticios, además de ofrecer orientación nutricional a mujeres en estado de embarazo.Actualmente, NUTRI & FIT va creciendo en popularidad gracias a su excelente calidad de servicio y atención. Para empezar, el cliente pueden agendar una cita rápidamente llamando a los canales de atención de la empresa. Al llegar a su cita, si el paciente es nuevo, llenará un único formulario con el fin de ser agregado al registro general de pacientes y así poder manejar su historial médico de mánera óptima. Luego de esto pasará al consultorio y en base a su problema, recibirán un diagnóstico por parte del doctor Piero Zevallos. Finalmente, este le otorgorá al paciente una revista de alimentos recomendados que le ayudarán a mejorar su estado de salud, además, se le sugerirá una fecha próxima para su siguiente cita, en la que se le evaluará nuevamente.</p>
-            <h3 className="subtile-visionDeProyecto">VISION DE LA EMPRESA</h3>
+            {/* <h3 className="subtile-visionDeProyecto">VISION DE LA EMPRESA</h3>
             <p className="parrafo-visionDeProyecto">Dar estilos de vida saludables a los clientes</p>
             <h3 className="subtile-visionDeProyecto">MISION DE LA EMPRESA</h3>
             <p className="parrafo-visionDeProyecto">Mejorar la vida de nuestros clientes, empleados y comunidad, así como inspirar a otros a hacerlo también</p>
-            <h3 className="subtile-visionDeProyecto">ESTUDIO DE MERCADO</h3>
+            <h3 className="subtile-visionDeProyecto">ESTUDIO DE MERCADO</h3> */}
 
             <div className="contenedor-estudio-mercado" >
                 <div>
