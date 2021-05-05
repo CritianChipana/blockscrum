@@ -22,7 +22,7 @@ export const NavBar = () => {
                         className="nav-link  nav-list-option link-transicion"
                         to="/blockscrum/inicio"
                     >
-                        INICIO
+                        VISION
                     </Link>
 
                     <Link
