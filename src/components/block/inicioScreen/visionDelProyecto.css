@@ -1,0 +1,24 @@
+.contenedor-vision{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px;
+}
+
+.tile-visionDeProyecto{
+
+}
+.subtile-visionDeProyecto{
+
+}
+
+.parrafo-visionDeProyecto{
+    
+}
+
+.contenedor-estudio-mercado{
+    display: grid;
+    grid-template-columns: repeat( 3 , minmax(100px, 1fr ));
+    gap: 35px;
+}
