@@ -11,7 +11,7 @@ export const NavBar = () => {
         <nav className="nav-conteiner">
             <Link
                 className="nav-link  nav-title"
-                to="/Block-Scrum"
+                to="/blockscrum"
             >
                 Block SCRUM
             </Link>
@@ -20,35 +20,35 @@ export const NavBar = () => {
                 <div className ="aa" >
                     <Link
                         className="nav-link  nav-list-option link-transicion"
-                        to="/Block-Scrum/inicio"
+                        to="/blockscrum/inicio"
                     >
                         INICIO
                     </Link>
 
                     <Link
                         className="nav-link nav-list-option link-transicion"
-                        to="/Block-Scrum/sprint1"
+                        to="/blockscrum/sprint1"
                     >
                         SPRINT I
                     </Link>
                     
                     <Link
                         className="nav-link nav-list-option link-transicion"
-                        to="/Block-Scrum/sprint2"
+                        to="/blockscrum/sprint2"
                     >
                         SPRINT II
                     </Link>
 
                     <Link
                         className="nav-link nav-list-option link-transicion "
-                        to="/Block-Scrum/sprint3"
+                        to="/blockscrum/sprint3"
                     >
                         SPRINT III
                     </Link>
 
                     <Link
                         className="nav-link nav-list-option link-transicion"
-                        to="/Block-Scrum/sprint4"
+                        to="/blockscrum/sprint4"
                     >
                         SPRINT IV
                     </Link>
